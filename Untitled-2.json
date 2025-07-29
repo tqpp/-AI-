@@ -1,0 +1,19 @@
+[
+    {
+        "icon": "文本",
+        "iconSrc": "任何类型",
+        "title": "文本",
+        "tapStatus": "文本",
+        "packageName": "文本",
+        "insideUrl": "文本",
+        "outerUrl": "文本",
+        "newPage": "布尔值",
+        "withParams": "布尔值",
+        "params": [
+            {
+                "key": "文本",
+                "value": "文本"
+            }
+        ]
+    }
+]

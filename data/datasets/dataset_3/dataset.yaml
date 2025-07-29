@@ -1,0 +1,6 @@
+path: /Users/apple/workspace/industrial-ocr-system/data/datasets/dataset_3
+train: train/images
+val: val/images
+nc: 2
+
+names: ["0", "7"]

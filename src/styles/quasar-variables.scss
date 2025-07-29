@@ -1,0 +1,53 @@
+// Quasar SCSS Variables
+// --------------------------------------------------
+// 为Quasar框架定制工业风格
+
+// 主色调
+$primary: #2A5CAA;
+$secondary: #4A4E54;
+$accent: #FF6B35;
+
+$dark: #1D1D1D;
+$dark-page: #121212;
+
+// 状态颜色
+$positive: #21BA45;
+$negative: #C10015;
+$info: #31CCEC;
+$warning: #F2C037;
+
+// 字体
+$typography-font-family: 'Roboto', sans-serif;
+
+// 按钮样式
+$button-border-radius: 8px;
+$button-padding: 12px 24px;
+$button-font-size: 18px;
+$button-line-height: 1.5;
+$button-font-weight: 500;
+
+// 卡片样式
+$card-border-radius: 8px;
+$card-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+// 表格样式
+$table-border-radius: 8px;
+$table-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+
+// 输入框样式
+$input-border-radius: 8px;
+$input-font-size: 18px;
+
+// 抽屉样式
+$drawer-width: 240px;
+$drawer-border-radius: 0;
+
+// 工具提示样式
+$tooltip-background: $dark;
+$tooltip-text-color: white;
+$tooltip-font-size: 14px;
+
+// 通知样式
+$notify-position: top-right;
+$notify-timeout: 2500;
+$notify-text-color: white;

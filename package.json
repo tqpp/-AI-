@@ -1,0 +1,53 @@
+{
+  "name": "industrial-ocr-system",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@annotorious/openseadragon": "^3.3.3",
+    "@logicflow/core": "^2.0.11",
+    "@logicflow/extension": "^2.0.15",
+    "@monaco-editor/loader": "^1.5.0",
+    "@quasar/extras": "^1.16.5",
+    "@types/file-saver": "^2.0.7",
+    "@types/lodash": "^4.17.16",
+    "@types/uuid": "^10.0.0",
+    "axios": "^1.8.4",
+    "chart.js": "^4.4.8",
+    "date-fns": "^4.1.0",
+    "echarts": "^5.4.3",
+    "fabric": "^6.6.1",
+    "file-saver": "^2.0.5",
+    "idb": "^7.1.1",
+    "konva": "^9.3.19",
+    "lodash": "^4.17.21",
+    "monaco-editor": "^0.52.2",
+    "node-opcua-client": "^2.103.0",
+    "opencv.js": "^1.2.1",
+    "openseadragon": "^5.0.1",
+    "pinia": "^2.1.6",
+    "quasar": "^2.12.5",
+    "socket.io-client": "^4.7.2",
+    "uuid": "^11.1.0",
+    "vue": "^3.3.4",
+    "vue-i18n": "^9.14.4",
+    "vue-konva": "^3.2.0",
+    "vue-router": "^4.2.4",
+    "xlsx": "^0.18.5",
+    "xterm": "^5.3.0",
+    "xterm-addon-fit": "^0.8.0"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.4.1",
+    "@types/openseadragon": "^3.0.10",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.66.1",
+    "vite": "^4.4.9",
+    "vite-plugin-monaco-editor": "^1.1.0"
+  }
+}

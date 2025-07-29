@@ -1,0 +1,103 @@
+# Node.js
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+venv/
+.venv/
+ENV/
+env/
+.python-version
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+uploads/
+logs/
+*.log
+temp/
+.cache/
+.temp/
+.tmp/
+
+# Build & Dependencies
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+poetry.lock
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Misc
+*.bak
+*.swp
+*.tmp
+*~
+.env.development
+.env.test
+.env.production
+.conda/
+
+yolov5/
