@@ -93,10 +93,6 @@
 
 
 
- 本项目基于[工业低代码计算机视觉系统](https://www.gitpp.com/chatwike/project-gpp-0525002)
-
-致谢！大家尊重原作者的成果
-
 
 # 开源、共享的 AI低代码平台
 
