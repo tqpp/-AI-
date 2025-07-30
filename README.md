@@ -102,7 +102,7 @@
 
 PKU 开源协议
 
-https://www.gitpp.com/pkuLicense/pku-open-source-license
+[https://www.gitpp.com/pkuLicense/pku-open-source-license](https://github.com/tqpp/PKU-Open-Source-License)
 
 
 小微企业、个人完全免费
