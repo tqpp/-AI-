@@ -114,13 +114,7 @@ https://www.gitpp.com/pkuLicense/pku-open-source-license
 大中型企业，一定要付费哦，尊重这些底层的程序员吧
 
 
-### **低代码AI模型训练系统：工业质检 通用解决方案**  
-**系统定位**：基于深度学习的低代码AI平台，专为**工业质检**设计
 
-本项目基于[工业低代码计算机视觉系统](https://www.gitpp.com/chatwike/project-gpp-0525002)
-
-
-致谢！大家尊重原作者的成果
 
 
 
